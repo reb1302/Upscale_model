@@ -1,20 +1,35 @@
 4x_SkinRestore_QYTM_RGT
 
 Name: 4x_SkinRestore_QYTM_RGT
+
 License: CC BY 4.0
+
 Author: HUY MINH (QYTM)
+
 Network: RGT
+
 Scale: 4
+
 Release Date: 31.03.2024
+
 Purpose: 4x upscale for skin and portraits, great for studio photography shots
+
 Iterations: 243'000
+
 H_size: 256
+
 n_channels: 3
+
 dataloader_batch_size: 8
+
 Dataset: Mix between FaceUp, Nomos8k, and over 8000 sample high-resolution images from Flickr
+
 Number of train images: 21,140
+
 OTF Training: No
+
 Pretrained_Model_G: RGT_x4.pth
+
 
 
 Description:
