@@ -1,4 +1,4 @@
-4x_SkinRestore_QYTM_RGT
+# 4x_SkinRestore_QYTM_RGT
 
 Name: 4x_SkinRestore_QYTM_RGT
 
@@ -32,7 +32,7 @@ Pretrained_Model_G: RGT_x4.pth
 
 
 
-Description:
+## Description:
 This upscaler is designed for portrait photos, sharpening slightly blurred old pictures, restoring some details on the skin, and is particularly effective in restoring studio shots that have been significantly reduced in quality. 
 This model was trained on the RGT network. I have tested it on initial restoration steps for Supir, and it has produced astonishing results.
 
@@ -52,7 +52,7 @@ I might train more and increase the sample size leaning towards content details 
 
 
 
-compare:
+## Compare:
 
 https://imgsli.com/MjUxNzAy
 
@@ -70,6 +70,6 @@ https://imgsli.com/MjUxNjkx/0/2
 
 https://imgsli.com/MjUxNzAw/0/1
 
-model:
+## Model:
 
 https://drive.google.com/file/d/1Blad3Ju2AU3vsgTrOTGMfRnc5rIh-11E/view?usp=sharing
